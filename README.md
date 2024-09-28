@@ -42,5 +42,8 @@ choosing the above given parameters.
 ![image](https://github.com/user-attachments/assets/7a9f13b3-4209-431e-8cf8-ef7b44ce6c3e)
 ![image](https://github.com/user-attachments/assets/ce1267a0-cb0d-4090-9d58-26b4ec1359e9)
 
+Also we got mse_loss of just 0.0019
+
+![Accuracy](https://github.com/user-attachments/assets/8495db06-f7e4-4812-96b8-96aabaf7eeb4)
 
 
