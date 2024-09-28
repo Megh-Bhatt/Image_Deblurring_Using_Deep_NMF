@@ -35,3 +35,12 @@ solution.
 The model was trained for 100 epoch on T4 Gpu available on kaggle, various experi-
 ments were made with loss functions and layer parameters but the best output was obtained
 choosing the above given parameters.
+
+### Results
+
+![image](https://github.com/user-attachments/assets/5b5731af-b74b-4dd4-adff-d6e9eda90bce)
+![image](https://github.com/user-attachments/assets/7a9f13b3-4209-431e-8cf8-ef7b44ce6c3e)
+![image](https://github.com/user-attachments/assets/ce1267a0-cb0d-4090-9d58-26b4ec1359e9)
+
+
+
