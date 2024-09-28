@@ -47,3 +47,20 @@ Also we got mse_loss of just 0.0019
 ![Accuracy](https://github.com/user-attachments/assets/8495db06-f7e4-4812-96b8-96aabaf7eeb4)
 
 
+### How to Implement on your local pc
+
+First download dataset from the following link.
+
+https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset.
+
+Then download the repository.
+
+Then extract the faces folder of the dataset into the same folder as the codes.
+
+Then first run Dataset creater to make blurred images.
+
+Then just change in paths if needed in the main code and then run the main code and you are good to go.
+
+
+
+
