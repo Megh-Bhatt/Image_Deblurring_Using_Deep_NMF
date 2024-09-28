@@ -8,7 +8,7 @@ decompose V through intermediate layers of factorization:
 Here, each Wi represents a layer of decomposition, and the deeper structure allows for
 capturing more complex representations of the data.
 
-### Implementation
+### Methodology
 
 So the first task was to find the way to implement the model/code, and after reading
 some text we found that AutoEncoder is the thing we are looking for. Now, as we are
